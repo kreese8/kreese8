@@ -22,7 +22,7 @@
 
 ## GitHub Stats
 
-(https://github.com/kreese8/kreese8/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kreese8/kreese8/blob/output/github-contribution-grid-snake.svg)
 
 ## Connect with me
 
