@@ -1,4 +1,4 @@
-# Hi, I'm Kailey 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Kailey%20Walker&fontSize=40)
 💻 Data Analyst | Machine Learning & AI | Vienna University
 
 ## About Me
@@ -30,5 +30,3 @@
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/kailey-r-walker/) 
 - Email: kai.reese.walker@gmail.com
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Your%20Name&fontSize=40)
