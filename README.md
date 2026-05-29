@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffe3c2,25:ffb199,50:f6a6b2,75:d8c7a3,100:2f3e2e&height=220&section=header&text=Your%20Name&fontSize=42&fontColor=ffffff)
+![Header](./github-header-banner.png)
+
 💻 Data Analyst | Machine Learning & AI | Vienna University
 
 ## About Me
@@ -14,11 +15,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ## Featured Projects
 
