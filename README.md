@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/14c4b1c2-f05d-469c-8423-124eb946cc21" />
 
 💻 Data Analyst | Machine Learning & AI | Vienna University
 
