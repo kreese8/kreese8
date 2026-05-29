@@ -1,6 +1,5 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/14c4b1c2-f05d-469c-8423-124eb946cc21" />
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/377e1741-fa88-405f-84a2-83b272c8fe26" />
 
-💻 Data Analyst | Machine Learning & AI | Vienna University
 
 ## About Me
 
