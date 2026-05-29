@@ -20,10 +20,6 @@
 - **NLP Development** – Machine learning, AI, Python
 - **Electricity Network Optimization** – Grid-based optimization
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats-kreese8.vercel.app/api?username=kreese8&show_icons=true)
-
-![Top Langs](https://github-readme-stats-kreese8.vercel.app/api/top-langs/?username=kreese8&layout=compact)
 ## Connect with me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/kailey-r-walker/) 
