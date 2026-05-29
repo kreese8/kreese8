@@ -21,8 +21,7 @@
 - **Electricity Network Optimization** – Grid-based optimization
 
 ## GitHub Stats
-
-![Snake animation](https://github.com/kreese8/kreese8/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/kreese8/kreese8/output/github-contribution-grid-snake.svg)
 
 ## Connect with me
 
