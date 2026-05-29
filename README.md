@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffe3c2,50:f6a6b2,100:2f3e2e&height=200&section=header&text=Kailey%20Walker&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fff1e6,50:ffd6cc,100:f8c8dc&height=200&section=header&text=Kailey%20Walker&fontSize=40&fontColor=ffffff)
 💻 Data Analyst | Machine Learning & AI | Vienna University
 
 ## About Me
