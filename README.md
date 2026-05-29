@@ -22,7 +22,6 @@
 
 ## GitHub Stats
 ![Snake animation](https://raw.githubusercontent.com/kreese8/kreese8/output/github-contribution-grid-snake.svg)
-
 ## Connect with me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/kailey-r-walker/) 
