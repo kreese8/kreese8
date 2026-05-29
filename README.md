@@ -1,4 +1,4 @@
-<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/a560611e-6018-43c6-b9a3-ff104a242cf7" />
+<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/2a2bd162-e452-4558-a4fa-adc9c93c8a75" />
 
 
 ## About Me
